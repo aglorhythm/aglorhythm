@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aglorhythm
-- 👀 I’m interested in fashion and entrepreneurship
+- 👀 I’m interested in fashion and entrepreneurship, love tech !
 - 🌱 I’m currently learning the devops culture and community building
 - 📫 You can reach me on Linkedin
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Am I a developper ? I don't think so.
+- ⚡ Fun fact: Am I a developper ? I don't think so. But I know about web development..
 
 <!---
 Well..
