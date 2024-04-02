@@ -38,10 +38,10 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 
 ## Certifications
 
-* [Python2: ](https://www.codecademy.com/profiles/method3397028577/certificates/b97fd4d87a816c761a674af1b5391ef1) ~ 40h of works
-* [CLI: ](https://www.codecademy.com/profiles/method3397028577/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
-* [Intro to Cloud Computing: ](https://www.credly.com/badges/581d1301-19ce-4966-bb74-be57c9ba92d5/linked_in_profile)
-* [HTML & CSS: ](https://www.freecodecamp.org/certification/olgaam/responsive-web-design) ~ 300h of works
+* [Python2](https://www.codecademy.com/profiles/method3397028577/certificates/b97fd4d87a816c761a674af1b5391ef1) ~ 40h of works
+* [CLI](https://www.codecademy.com/profiles/method3397028577/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+* [Intro to Cloud Computing](https://www.credly.com/badges/581d1301-19ce-4966-bb74-be57c9ba92d5/linked_in_profile)
+* [HTML & CSS](https://www.freecodecamp.org/certification/olgaam/responsive-web-design) ~ 300h of works
 
 
 ### Socials
