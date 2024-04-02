@@ -28,7 +28,19 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
-### Command-Line Interfaces, Operating & Version Control systems
+## Compétences
+
+| Catégorie           | Compétences                                   |
+|---------------------|-----------------------------------------------|
+| Langages            | JavaScript, HTML, CSS, Python, SQL           |
+| Frameworks          | Express.js, React.js, Next.js, Material-UI    |
+| Bibliothèques       | jQuery, lodash, moment.js, Axios              |
+| Ligne de commande   | Git, npm, yarn, Bash                          |
+| Environnements de développement intégré (IDE) | Visual Studio Code, Sublime Text, IntelliJ IDEA |
+| Plateformes         | Heroku, AWS, Google Cloud Platform            |
+| Systèmes d'exploitation | Linux, macOS, Windows                     |
+
+### Command-Line Interfaces, Operating, Version Control systems, IDE
 <p align="left">
 <!---- Bash ---!>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
@@ -36,11 +48,6 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <!---- Linux---!>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<!---- Windows ---!>
-</p>
-
-### IDE
-<p align="left">
 <!---- VS Code ---!>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
@@ -52,17 +59,11 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 <!---- Django ---!>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-  
-### CMS
-<p align="left">
-<!---- VS Code ---!>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-<!---- VS Code ---!>
-<a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
-</p>
-  
+
 ### Frontend
 <p align="left">
+<!---- React ---!>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <!---- Next.js ---!>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <!---- CSS3 ---!>
@@ -73,15 +74,17 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 <!---- Material UI ---!>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <!---- Next UI ---!>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Next UI" /></a>
+<a href="https://nextui.org/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4D0BAQEs3Q9gQkNp4g/company-logo_200_200/0/1668448099483/nextui_org_logo?e=2147483647&v=beta&t=aHBf4xk_tZCDaX2wo-OzYJhZxexB9ymRafEviqqHFlk" width="36" height="36" alt="Next UI" /></a>
 <!---- UIKit ---!>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://getuikit.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/uikit_logo_icon_144774.png" width="36" height="36" alt="UIkit" /></a>
 </p>
-  
-#### Libraries
+
+### CMS
 <p align="left">
-<!---- React ---!>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<!---- VS Code ---!>
+<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+<!---- VS Code ---!>
+<a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
 </p>
 
 ### Databases
