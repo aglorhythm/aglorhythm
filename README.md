@@ -7,8 +7,8 @@ Founder. AMOA. DEVOPS.
 🧐 I have been curious about technology since I was a kid. While learning about marketing, I developped a passion for Project Management. ⚡💼 Venturing into entrepreneurship and working as a functional analyst (AMOA) help me build all the skills needed to build, launch and manage an IT project. 📚 I've learned mostly everything I know at home on my own : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :) 🔭 My next playgrounds are located in the Devops and Cloud.areas.
 
 * 🌍  I'm based in France, Paris
-* 🖥️  See my portfolio at [My first web app](http://famousinvogue.com)
-* 🧠  I'm learning Devops culture in a bootcamp
+* 🖥️  See my [My first web app](http://famousinvogue.com) and [My second web app](http://signedmonyka.com)
+* 🧠  I'm learning Devops culture in [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
 * 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, restaurants
 * ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
 
