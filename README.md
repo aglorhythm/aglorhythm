@@ -6,8 +6,8 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 
 🧐 I have been curious about technology since I was a kid. While learning about marketing, I developped a passion for Project Management. </br></br>
 ⚡💼 Venturing into entrepreneurship and working as a functional analyst (AMOA) help me build all the skills needed to build, launch and manage an IT project. </br></br>
-📚 I've learned mostly everything I know at home on my own : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :) </br></br>
-🔭 My next playgrounds are located in the Devops and Cloud areas.
+📚 I've learned mostly everything I know at home on my own : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2016 to 2018, during which I earned a degree in Communication and Marketing.  </br></br>
+🔭 My next playgrounds are located in the Devops and Cloud areas. 
 
 * 🌍  I'm based in France, Paris
 * 🖥️  See my [My first web app](http://famousinvogue.com) and [My second web app](http://signedmonyka.com)
