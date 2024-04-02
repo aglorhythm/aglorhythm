@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aglorhythm
+- 👋 ##Hi, I’m @aglorhythm
 - 👀 I’m interested in fashion and entrepreneurship, love tech !
 - 🌱 I’m currently learning the devops culture and community building
 - 📫 You can reach me on Linkedin
