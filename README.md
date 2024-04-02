@@ -10,7 +10,7 @@ Founder. AMOA. DEVOPS.
 * 🖥️  See my portfolio at [My first web app](http://famousinvogue.com)
 * 🧠  I'm learning Devops culture in a bootcamp
 * 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, restaurants
-* ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneursip journey ?
+* ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
 
 ### Skills
 
