@@ -15,17 +15,6 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 * 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, restaurants
 * ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
 
-## Skills
-
-### Languages
-
-<p align="left">
-<!---- Javascript---!> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<!---- Python---!>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<!---- HTML5---!>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-</p>
 
 ## Skills
 
@@ -43,10 +32,11 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 | Graphism | <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/canva.com" width="36" height="36" alt="Canva" /></a> |
 | Analytics | Google Analytics, Google Tag Manager                     |
 | SEO | Google Search Console, Ahref, Semrush                    |
-| Marketing | <a href="https://mailchimp.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/mailchimp.com" width="36" height="36" alt="Mailchimp" /></a><a href="https://sendgrid.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/sendgrid.com" width="36" height="36" alt="SendGrid" /></a><a href="https://brevo.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/brevo.com" width="36" height="36" alt="Breezy HR" /></a><a href="https://planoly.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/planoly.com" width="36" height="36" alt="Planoly" /></a>
-<a href="https://www.hotjar.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/hotjar.com" width="36" height="36" alt="Hotjar" /></a><a href="https://ads.google.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/google.com" width="36" height="36" alt="Google Ads" /></a><a href="https://www.facebook.com/business/ads" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/facebook.com" width="36" height="36" alt="Facebook Ads" /></a> |
-| Project Management | ClickUp, Asana                  |
-| Testing | Mantis                 |
+| Marketing | <a href="https://mailchimp.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/mailchimp.com" width="36" height="36" alt="Mailchimp" /></a> <a href="https://sendgrid.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/sendgrid.com" width="36" height="36" alt="SendGrid" /></a> <a href="https://brevo.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/brevo.com" width="36" height="36" alt="Breezy HR" /></a> <a href="https://planoly.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/planoly.com" width="36" height="36" alt="Planoly" /> </a>
+<a href="https://www.hotjar.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/hotjar.com" width="36" height="36" alt="Hotjar" /></a> <a href="https://ads.google.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/google.com" width="36" height="36" alt="Google Ads" /></a> <a href="https://www.facebook.com/business/ads" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/facebook.com" width="36" height="36" alt="Facebook Ads" /></a> |
+| Project Management | <a href="https://clickup.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/clickup.com" width="36" height="36" alt="ClickUp" /></a> <a href="https://asana.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/asana.com" width="36" height="36" alt="Asana" /></a>
+                  |
+| Testing | <a href="https://www.mantisbt.org" target="_blank" rel="noreferrer"><img src="https://your-logo-host.com/path/to/mantis-logo.png" width="36" height="36" alt="Mantis" /></a> |
 
 ### Socials
 
