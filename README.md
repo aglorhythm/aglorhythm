@@ -48,17 +48,21 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 ### Backend & CMS
 
 #### Frameworks / Ecosystems 
+<p align="left">
 <!---- Node.js ---!>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <!---- Django ---!>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-
-####CMS
+</p>
+  
+### Frameworks
+<p align="left">
 <!---- VS Code ---!>
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
 <!---- VS Code ---!>
 <a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
-
+</p>
+  
 ### Frontend
 
 #### Frameworks / Ecosystems 
@@ -91,7 +95,6 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 <!---- MySQL ---!>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-
 
 ### Cloud Platforms
 <p align="left">
