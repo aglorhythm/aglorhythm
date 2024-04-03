@@ -37,7 +37,7 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 | Testing | <a href="https://www.mantisbt.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/318027?s=280&v=4" width="36" height="36" alt="Mantis" /></a> |
 
 ## My Expertise
-
+|---------------------|-----------------------------------------------|
 | #### Web            | #### Project management                                        |
 | * Full-stack development
 * Deployment of applications on cloud platforms
