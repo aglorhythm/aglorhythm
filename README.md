@@ -37,14 +37,11 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 | Testing | <a href="https://www.mantisbt.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/318027?s=280&v=4" width="36" height="36" alt="Mantis" /></a> |
 
 ## My Expertise
+| Web                 | Project management                            |
 |---------------------|-----------------------------------------------|
-| #### Web            | #### Project management                                        |
-| * Full-stack development
-* Deployment of applications on cloud platforms
-* Configuration of DNS servers
-* API and UI testing
-* Application configuration
-* Security practices            | #### Project management                                        |
+| * Full-stack development <br> * Deployment of applications on cloud platforms <br> Configuration of DNS servers <br> * API and UI testing <br> * Application configuration <br> * Security practices | * Communication with stakeholders <br> * Creating and maintaining project documentation <br> * Deliverables evaluation, base on customer requirements <br> * User support & continuous improvement <br> * Risk management <br> * Group collaboration
+| <p align="center">Marketing</p>        | <p align="center">Data</p>|
+| * Planning and task management <br> * Communication with stakeholders <br> * Creating and maintaining project documentation <br> * Deliverables evaluation, base on customer requirements <br> * User support & continuous improvement <br> * Risk management <br> * Group collaboration | * Designing, implementing, and managing databases <br> * Data Governance and Compliance
 
 #### Web
 * Full-stack development
