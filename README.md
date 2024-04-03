@@ -39,11 +39,34 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 ## My Expertise
 
 #### Web
-* Development
+* Full-stack development
 * Deployment of applications on cloud platforms
 * Configuration of DNS servers
-* Creation and management of a database
 * API and UI testing
+* Application configuration
+* Security practices
+
+#### Project management
+* Planning and task management
+* Communication with stakeholders
+* Creating and maintaining project documentation
+* Deliverables evaluation, base on customer requirements
+* User support & continuous improvement
+* Risk management
+* Group collaboration
+
+#### Marketing
+* Market research & strategy
+* Branding
+* SEO
+* Statistical analysis & monitoring
+* Content planning
+* Content creation (texts, images, videos)
+* Social Media Management (IG, FB, TikTok)
+
+#### Data
+* Designing, implementing, and managing databases
+* Data Governance and Compliance
 
 ## Certifications
 
