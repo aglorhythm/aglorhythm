@@ -38,6 +38,14 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 
 ## My Expertise
 
+| #### Web            | #### Project management                                        |
+| * Full-stack development
+* Deployment of applications on cloud platforms
+* Configuration of DNS servers
+* API and UI testing
+* Application configuration
+* Security practices            | #### Project management                                        |
+
 #### Web
 * Full-stack development
 * Deployment of applications on cloud platforms
