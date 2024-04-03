@@ -36,7 +36,14 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 | Project Management & Collaboration | <a href="https://clickup.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/clickup.com" width="36" height="36" alt="ClickUp" /></a> <a href="https://asana.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/asana.com" width="36" height="36" alt="Asana" /></a> <a href="https://airtable.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/airtable.com" width="36" height="36" alt="Airtable" /></a> <a href="https://miro.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/miro.com" width="36" height="36" alt="Miro" /></a> |
 | Testing | <a href="https://www.mantisbt.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/318027?s=280&v=4" width="36" height="36" alt="Mantis" /></a> |
 
-#### Expertise
+## My Expertise
+
+#### Web
+* Development
+* Deployment of applications on cloud platforms
+* Configuration of DNS servers
+* Creation and management of a database
+* API and UI testing
 
 ## Certifications
 
