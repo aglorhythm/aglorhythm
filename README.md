@@ -9,9 +9,9 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 📚 I've learned mostly everything I know at home on my own : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2016 to 2018, during which I earned a degree in Communication and Marketing.  </br></br>
 🔭 My next playgrounds are located in the Devops and Cloud areas. 
 
-* 🌍  I'm based in France, Paris. I've lived in London, UK 💂 for 1 year (2013-2014).
+* 🌍  I'm based in France, Paris. I've lived in London, UK 💂 for 1 year (2013-2014). Fluent in EN, native FR.
 * 🖥️  See my [My first web app](http://famousinvogue.com) and [My second web app](http://signedmonyka.com)
-* 🧠  I'm learning Devops culture in [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
+* 🧠  I'm learning Devops culture with [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
 * 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, restaurants
 * ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
 
