@@ -16,7 +16,7 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 * ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
 
 
-## Skills
+## My Skill Set
 
 | Category            | Skills                                        |
 |---------------------|-----------------------------------------------|
@@ -35,6 +35,8 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 | Marketing | <a href="https://mailchimp.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/mailchimp.com" width="36" height="36" alt="Mailchimp" /></a> <a href="https://sendgrid.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/sendgrid.com" width="36" height="36" alt="SendGrid" /></a> <a href="https://brevo.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMkEGIBZkPfAryJeZwQrYWD9GSs40TqSipzWib4Ywgg&s" width="36" height="36" alt="Brevo" /></a> <a href="https://planoly.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/planoly.com" width="36" height="36" alt="Planoly" /> </a> <a href="https://www.hotjar.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/hotjar.com" width="36" height="36" alt="Hotjar" /></a> <a href="https://ads.google.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/google.com" width="36" height="36" alt="Google Ads" /></a> <a href="https://www.facebook.com/business/ads" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/facebook.com" width="36" height="36" alt="Facebook Ads" /></a> |
 | Project Management & Collaboration | <a href="https://clickup.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/clickup.com" width="36" height="36" alt="ClickUp" /></a> <a href="https://asana.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/asana.com" width="36" height="36" alt="Asana" /></a> <a href="https://airtable.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/airtable.com" width="36" height="36" alt="Airtable" /></a> <a href="https://miro.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/miro.com" width="36" height="36" alt="Miro" /></a> |
 | Testing | <a href="https://www.mantisbt.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/318027?s=280&v=4" width="36" height="36" alt="Mantis" /></a> |
+
+#### Expertise
 
 ## Certifications
 
