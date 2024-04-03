@@ -37,41 +37,11 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 | Testing | <a href="https://www.mantisbt.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/318027?s=280&v=4" width="36" height="36" alt="Mantis" /></a> |
 
 ## My Expertise
-| Web                 | Project management                            |
+| 💻 Web                 | 👩🏿‍💼 Project management                            |
 |---------------------|-----------------------------------------------|
-| * Full-stack development <br> * Deployment of applications on cloud platforms <br> Configuration of DNS servers <br> * API and UI testing <br> * Application configuration <br> * Security practices | * Communication with stakeholders <br> * Creating and maintaining project documentation <br> * Deliverables evaluation, base on customer requirements <br> * User support & continuous improvement <br> * Risk management <br> * Group collaboration
-| **<p align="center">Marketing</p>**        | **<p align="center">Data</p>**|
-| * Planning and task management <br> * Communication with stakeholders <br> * Creating and maintaining project documentation <br> * Deliverables evaluation, base on customer requirements <br> * User support & continuous improvement <br> * Risk management <br> * Group collaboration | * Designing, implementing, and managing databases <br> * Data Governance and Compliance
-
-#### Web
-* Full-stack development
-* Deployment of applications on cloud platforms
-* Configuration of DNS servers
-* API and UI testing
-* Application configuration
-* Security practices
-
-#### Project management
-* Planning and task management
-* Communication with stakeholders
-* Creating and maintaining project documentation
-* Deliverables evaluation, base on customer requirements
-* User support & continuous improvement
-* Risk management
-* Group collaboration
-
-#### Marketing
-* Market research & strategy
-* Branding
-* SEO
-* Statistical analysis & monitoring
-* Content planning
-* Content creation (texts, images, videos)
-* Social Media Management (IG, FB, TikTok)
-
-#### Data
-* Designing, implementing, and managing databases
-* Data Governance and Compliance
+| * Full-stack **development** <br> * **Deployment** of applications on cloud platforms <br> * **Configuration** of DNS servers <br> * API and UI **testing** <br> * Application **configuration** <br> * **Security** practices | * **Communication** with stakeholders <br> * Creating and maintaining **project documentation** <br> * Deliverables **evaluation**, base on customer requirements <br> * User **support** & continuous **improvement** <br> * Risk management <br> * Group **collaboration**
+|  **<p align="center">📢 Marketing</p>**        |  **<p align="center">💾 Data</p>**|
+| * Market **research & strategy** <br> * Branding  <br> * SEO <br> * Statistical **analysis & monitoring** <br> * Content planning <br> * Content creation (texts, images, videos) <br> * Social Media Management (IG, FB, TikTok) | * Designing, implementing, and managing databases <br> * Data Governance and Compliance
 
 ## Certifications
 
