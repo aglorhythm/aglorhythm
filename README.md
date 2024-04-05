@@ -11,7 +11,6 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 
 * 🌍  I'm based in France, Paris. I've lived in London, UK 💂 for 1 year (2013-2014). Fluent in EN, native FR.
 * 🖥️  See my [My first web app](http://famousinvogue.com) and [My second web app](http://signedmonyka.com)
-* 🖥️  My [other git profile](https://github.com/wfamous) 
 * 🧠  I'm learning Devops culture with [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
 * 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, restaurants
 * ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
