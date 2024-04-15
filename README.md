@@ -44,6 +44,64 @@ AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
 |  **<p align="center">📢 Marketing</p>**        |  **<p align="center">💾 Data</p>**|
 | * Market **research & strategy** <br> * Branding  <br> * SEO <br> * Statistical **analysis & monitoring** <br> * Content planning <br> * Content creation (texts, images, videos) <br> * Social Media Management (IG, FB, TikTok) | * Designing, implementing, and managing databases <br> * Data Governance and Compliance
 
+## My projects
+
+### ✨ <a href="https://famousinvogue.com">Famous in Vogue</a>
+
+🪄 I have build this web app from scratch.
+
+**Famous in Vogue (FIV)** is a dynamic digital platform dedicated to empowering women entrepreneurs by simplifying the creation and development of e-commerce brands. The mission is to provide comprehensive resources and tools tailored for women debuting in entrepreneurship, who are passionate about fashion, beauty, and aspire to achieve financial independence. 
+Our community is hosted on Telegram and I set up a Telegram bot to automate and fluidify processuses like registering, editing account, consulting data..
+
+**Features and offering** : B2B Vendor directory, Freelancers Directory, B2C Brands Directory, Ready-to-use marketing and business templates, photos, Community platform.
+
+**Development framework used for this project**: 
+* **Backend** : NodeJS (Strapi) => Hosted on Heroku
+* **Front-end** : React (NextJs pages router) => Hosted on Vercel
+* **Deployment** through Github
+* **APIs** : Stripe, Facebook Graph API, Google Api, SwellJS, Cloudinary, AWS S3, Box, Telegraf (for Telegram)
+* **Cloud** to host files : Cloudinary, AWS S3, Box
+* **Testing** : Postman for APIs, manual end-to-end testing
+* **UI** : Mui, UIKit
+
+  <div >
+    <a href="https://famousinvogue.com">
+    <img  height="170" weigth="170" src="https://res.cloudinary.com/dp9hrfipo/image/upload/v1709562824/large_cjkx2ndnskjqqtrxbafo_a49e414fc2.png" />
+    <img  height="200" weigth="200" src="https://res.cloudinary.com/dp9hrfipo/image/upload/v1709577177/Cards/c3pfjdpq6wjwghnspbds.png" />
+    <img  height="200" weigth="200" src="https://res.cloudinary.com/dp9hrfipo/image/upload/v1709559202/Cards/rpzhyolyi4gbyuknqxrn.webp" />
+    <img  height="200" weigth="200" src="https://res.cloudinary.com/dp9hrfipo/image/upload/v1648412864/Cards/famous-in-vogue_card-candles-vendor_compressed_lqzzyh.webp" />
+    <img  height="200" weigth="200" src="https://res.cloudinary.com/dp9hrfipo/image/upload/v1648408220/Cards/famous-in-vogue_brand-cards_znf7jl.png" />
+    </a>
+  </div>
+</div>
+
+### ✨ <a href="https://signedmonyka.com">Signed Monyka</a>
+
+🪄 I have build this web app from scratch.
+
+**SignedMonyka (FIV)** is a sophisticated brand that merges high-quality craftsmanship. Specializing in stainless steel jewelry and chic accessories, our brand caters to fashion-forward individuals who value both style and substance. 
+
+**Features and offering** : A shop of luxury collection and a Blog chronicles
+
+**Development framework used for this project**: 
+* **Backend** : Wordpress => Hosted on o2Swicth
+* **Front-end** : React (NextJs app router) => Hosted on Vercel
+* **Deployment** through Github
+* **APIs** : Stripe, Cloudinary
+* **Cloud** to host files : Cloudinary
+* **Testing** : Postman for APIs, manual end-to-end testing
+* **UI** : NextUI, TailwindCSS
+
+  <div >
+    <a href="https://signedmonyka.com">
+      <img  width="400" src="https://res.cloudinary.com/dp9hrfipo/image/upload/v1713209555/Monyka/vqaqvlh3voo0sys13zxa.png" />
+      <img  width="400" src="https://res.cloudinary.com/dp9hrfipo/image/upload/v1713209522/Monyka/uognilzjhsdrjionhz0j.png" />
+    </a>
+  </div>
+</div>
+
+
+
 ## Certifications
 
 * [Python2](https://www.codecademy.com/profiles/method3397028577/certificates/b97fd4d87a816c761a674af1b5391ef1) ~ 40h of works
