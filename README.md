@@ -56,7 +56,11 @@ Our community is hosted on Telegram and I set up a Telegram bot to automate and 
 **Features and offering** : B2B Vendor directory, Freelancers Directory, B2C Brands Directory, Ready-to-use marketing and business templates, photos, Community platform.
 
 **Development framework used for this project**: 
-* **Backend** : NodeJS (Strapi) => Hosted on Heroku
+
+<img src="https://logo.clearbit.com/heroku.com" width="36" height="36" alt="Heroku" /> <img src="https://logo.clearbit.com/strapi.io" width="36" height="36" alt="Strapi" /> <img src="https://logo.clearbit.com/nextjs.org" width="36" height="36" alt="NextJs" /> <img src="https://logo.clearbit.com/github.com" width="36" height="36" alt="Github" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/> <img src="https://logo.clearbit.com/vercel.com" width="36" height="36" alt="Vercel" />
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36"/> <img src="https://logo.clearbit.com/aws.amazon.com" width="36" height="36" alt="AWS" />
+
+* **Backend** : NodeJS (Strapi) => Hosted on Heroku  
 * **Front-end** : React (NextJs pages router) => Hosted on Vercel
 * **Deployment** through Github
 * **APIs** : Stripe, Facebook Graph API, Google Api, SwellJS, Cloudinary, AWS S3, Box, Telegraf (for Telegram)
@@ -84,6 +88,9 @@ Our community is hosted on Telegram and I set up a Telegram bot to automate and 
 **Features and offering** : A shop of luxury collection and a Blog chronicles
 
 **Development framework used for this project**: 
+
+<img src="https://logo.clearbit.com/nextjs.org" width="36" height="36" alt="NextJs" /> <img src="https://logo.clearbit.com/github.com" width="36" height="36" alt="Github" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/> <img src="https://logo.clearbit.com/wordpress.org" width="36" height="36" alt="Wordpress" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36"/> 
+
 * **Backend** : Wordpress => Hosted on o2Swicth
 * **Front-end** : React (NextJs app router) => Hosted on Vercel
 * **Deployment** through Github
