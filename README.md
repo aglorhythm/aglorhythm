@@ -1,7 +1,7 @@
 Hi 👋 My name is Olga
 =====================
 
-AMOA • DEVOPS • 2x Founder • Business Enabler • Techie
+DevOps Engineer • 2x Founder • Techie
 ----------------------
 
 🧐 I have been curious about technology since I was a kid. While learning about marketing, I developped a passion for Project Management. </br></br>
