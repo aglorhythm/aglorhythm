@@ -21,15 +21,3 @@ DevOps Engineer • 2x Founder • Techie
 🚨
 That is not only what I know ! While diving through my entrepreneur journey, Business analyst experiences and Devops bootcamp, I acquired a lot of skills. Check my full skillset and expertise here :
 [All my skills](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_my-skillset.md)
-
-## Certifications
-
-* [Python2](https://www.codecademy.com/profiles/method3397028577/certificates/b97fd4d87a816c761a674af1b5391ef1) ~ 40h of works
-* [CLI](https://www.codecademy.com/profiles/method3397028577/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
-* [Intro to Cloud Computing](https://www.credly.com/badges/581d1301-19ce-4966-bb74-be57c9ba92d5/linked_in_profile)
-* [HTML & CSS](https://www.freecodecamp.org/certification/olgaam/responsive-web-design) ~ 300h of works
-
-
-## Socials
-
-<p align="left"> <a href="https://www.github.com/aglorhythm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/oaman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://stackoverflow.com/users/15584252/aglorhythm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
