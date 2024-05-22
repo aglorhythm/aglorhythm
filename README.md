@@ -21,3 +21,5 @@ DevOps Engineer • 2x Founder • Techie
 🚨
 That is not only what I know ! While diving through my entrepreneur journey, Business analyst experiences and Devops bootcamp, I acquired a lot of skills. Check my full skillset and expertise here :
 [All my skills](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_my-skillset.md)
+
+[![](https://visitcount.itsvg.in/api?id=aglorhythm&label=Profile%20Views&color=10&icon=1&pretty=true)](https://visitcount.itsvg.in)
