@@ -11,7 +11,8 @@ DevOps Engineer • 2x Founder • Techie
 
 * 🌍  I'm based in France, Paris. I've lived in London, UK 💂 for 1 year (2013-2014). Fluent in EN, native FR.
 * 🖥️  See my [My first web app](http://famousinvogue.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md)) and [My second web app](http://signedmonyka.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
-* 🧠  I'm learning Devops culture with [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
+* 🧠  I've learned Devops culture with [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
+* 🧠  I'm now doing an apprenticeship with [Datascientest](https://datascientest.com/formation-devops) #fintech
 * 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, restaurants
 * ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
 
