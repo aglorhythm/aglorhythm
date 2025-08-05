@@ -1,19 +1,19 @@
 Hi 👋 My name is Olga
 =====================
 
-DevOps Engineer • 2x Founder • Techie
+Systems Architect & Growth + GTM Engineer • Multipotentialite Founder • Techie
 ----------------------
 
 🧐 I have been curious about technology since I was a kid. While learning about marketing, I developped a passion for Project Management. </br></br>
 ⚡💼 Venturing into entrepreneurship and working as a functional analyst (AMOA) for almost 2 years helped me acquire all the skills needed to build, launch and manage an IT project. </br></br>
 📚 ***I've learned mostly everything I know at home on my own*** : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2014 to 2018, during which I earned a degree in Communication and Marketing.  </br></br>
-🔭 My next playgrounds are located in the Devops and Cloud areas. 
+🔭 Interested in Architecture, automation and AI. 
 
 * 🌍  I'm based in France, Paris. I've lived in London, UK 💂 for 1 year (2013-2014). Fluent in EN, native FR.
-* 🖥️  See my [My first web app](http://famousinvogue.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md)) and [My second web app](http://signedmonyka.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
+* 🖥️  See my [My very first web app](http://famousinvogue.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md)) and [My second web app](http://signedmonyka.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
 * 🧠  I've learned Devops culture with [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
-* 🧠  I'm now doing an apprenticeship with [Datascientest](https://datascientest.com/formation-devops) #fintech
-* 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, restaurants
+* 🧠  I'm now running my [own automation and growth studio](https://prettysecure.cloud)
+* 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, sustainability
 * ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
 
 ## My main skills 
@@ -28,7 +28,8 @@ DevOps Engineer • 2x Founder • Techie
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
 🚨
-That is not only what I know ! While diving through my entrepreneur journey, Business analyst experiences and Devops bootcamp, I acquired a lot of skills. Check my full skillset and expertise here :
+That is not only what I know ! While diving through my entrepreneur journey, Business analyst(AMOA) experiences and Devops bootcamp, I acquired a lot of skills. Check my full skillset and expertise here :
 [All my skills](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_my-skillset.md)
+
 
 [![](https://visitcount.itsvg.in/api?id=aglorhythm&label=Profile%20Views&color=10&icon=1&pretty=true)](https://visitcount.itsvg.in)
