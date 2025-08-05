@@ -5,7 +5,7 @@ Systems Architect & Growth + GTM Engineer • Multipotentialite Founder • Tech
 ----------------------
 
 🧐 I have been curious about technology since I was a kid. While learning about marketing, I developped a passion for Project Management. </br></br>
-⚡💼 Venturing into entrepreneurship and working as a functional analyst (AMOA) for almost 2 years helped me acquire all the skills needed to build, launch and manage an IT project. </br></br>
+⚡💼 Venturing into entrepreneurship and working as a functional analyst (AMOA) for almost 2 years, and DevOps, helped me acquire all the skills needed to build, launch, automate, grow and manage an IT project. </br></br>
 📚 ***I've learned mostly everything I know at home on my own*** : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2014 to 2018, during which I earned a degree in Communication and Marketing.  </br></br>
 🔭 Interested in Architecture, automation and AI. 
 
