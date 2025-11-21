@@ -1,20 +1,62 @@
 Hi 👋 My name is Olga
 =====================
 
-Systems Architect & Growth + GTM Engineer • Multipotentialite Founder • Techie
+Systems Architect & Growth Engineer @PrettySecure
+Building clean, scalable, automated systems for brands, founders, and small teams.
 ----------------------
 
-🧐 I have been curious about technology since I was a kid. While learning about marketing, I developped a passion for Project Management. </br></br>
-⚡💼 Venturing into entrepreneurship and working as a functional analyst (AMOA) for almost 2 years, and DevOps, helped me acquire all the skills needed to build, launch, automate, grow and manage an IT project. </br></br>
-📚 ***I've learned mostly everything I know at home on my own*** : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2014 to 2018, during which I earned a degree in Communication and Marketing.  </br></br>
-🔭 Interested in Architecture, automation and AI. 
+🧩 About me
 
-* 🌍  I'm based in France, Paris. I've lived in London, UK 💂 for 1 year (2013-2014). Fluent in EN, native FR.
-* 🖥️  See my [My very first web app](http://famousinvogue.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md)) and [My second web app](http://signedmonyka.com) [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
-* 🧠  I've learned Devops culture with [La Capsule's bootcamp](https://www.lacapsule.academy/program/devops-full-time)
-* 🧠  I'm now running my [own automation and growth studio](https://prettysecure.cloud)
-* 🤝  I'm open to collaborating on Projects related to fashion, social entrepreneurship, sustainability
-* ⚡  I admit that I do love a good Real Housewives show 🥤 can you believe this has inspired me in my entrepreneurship journey ?
+I combine business strategy, DevOps/Cloud engineering, and automation to design digital systems that make operations smoother, faster, and easier to run.
+I like building frameworks, mapping systems, fixing chaos, and designing flows that feel invisible but deliver real results.
+I’m a multipotentialite founder, currently running PrettySecure, an automation & growth studio helping brands launch, relaunch, and scale with clear tech and clean operations.
+
+🛠️ What I work on
+
+- System architecture (DevOps, Cloud, APIs, integrations)
+- Business operations & client journeys
+- Automation (n8n, custom flows, AI assistants, pipelines)
+- Technical branding (websites, flows, booking systems, CRM)
+- Data governance (RGPD basics, access management, security)
+- GTM & growth workflows for early-stage founders
+
+🚀 Some things I’ve built
+
+- Automated assistant + booking flow for a Paris beauty brand (no more lost messages)
+- Multi-tool infrastructure for e-commerce and service businesses
+- End-to-end customer journeys (from acquisition → onboarding → retention)
+- Back-office systems for founders overwhelmed by tools
+- Internal systems for content, operations, and data tracking
+- A B2B platform with online directories - check [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md))
+- An Ecommerce for gashion accessories - check [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
+
+📚 My path
+
+***I've learned mostly everything I know at home on my own*** : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2014 to 2018, during which I earned a degree in Communication and Marketing.  This helped me acquire all the skills needed to build, launch, automate, grow and manage an IT project. </br></br>
+
+- Self-taught in tech, marketing, design, automation, and product.
+- Studied communication & marketing bachelor degree (2014–2018) at home. Did a DevOps Bootcamp @ [La Capsule](https://www.lacapsule.academy/program/devops-full-time).
+- Worked as a business analyst (AMOA, for the government) and DevOps/Cloud apprentice at HSBC.
+- Now running [PrettySecure](https://prettysecure.cloud) full-time. 🔭 Interested in Architecture, automation and AI.
+- I love mixing strategy, systems thinking, aesthetics, and automation.
+
+
+🌍 Languages & background
+
+Based in Paris 🇫🇷
+Lived in London 🇬🇧
+Native French, fluent English.
+
+🤝 Open to collaborations
+
+Automation • Digital systems • UX • Growth • Data & Security • Dev • System mapping
+Also open to projects related to fashion, beauty social entrepreneurship, and sustainability.
+
+⚡ Fun fact
+
+Yes… I watch Real Housewives 🥤
+And yes… I’ve learned more about team dynamics, branding, and human psychology from it than from some business books.
+
 
 ## My main skills 
 <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
