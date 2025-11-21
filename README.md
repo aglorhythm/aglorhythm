@@ -5,7 +5,7 @@ Systems Architect & Growth Engineer @PrettySecure
 Building clean, scalable, automated systems for brands, founders, and small teams.
 ----------------------
 
-🧩 About me
+## 🧩 About me
 
 I combine business strategy, DevOps/Cloud engineering, and automation to design digital systems that make operations smoother, faster, and easier to run.
 I like building frameworks, mapping systems, fixing chaos, and designing flows that feel invisible but deliver real results.
