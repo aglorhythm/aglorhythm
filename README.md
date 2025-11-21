@@ -5,13 +5,13 @@ Systems Architect & Growth Engineer @PrettySecure
 Building clean, scalable, automated systems for brands, founders, and small teams.
 ----------------------
 
-## 🧩 About me
+### 🧩 About me
 
 I combine business strategy, DevOps/Cloud engineering, and automation to design digital systems that make operations smoother, faster, and easier to run.
 I like building frameworks, mapping systems, fixing chaos, and designing flows that feel invisible but deliver real results.
 I’m a multipotentialite founder, currently running PrettySecure, an automation & growth studio helping brands launch, relaunch, and scale with clear tech and clean operations.
 
-🛠️ What I work on
+### 🛠️ What I work on
 
 - System architecture (DevOps, Cloud, APIs, integrations)
 - Business operations & client journeys
@@ -20,7 +20,7 @@ I’m a multipotentialite founder, currently running PrettySecure, an automation
 - Data governance (RGPD basics, access management, security)
 - GTM & growth workflows for early-stage founders
 
-🚀 Some things I’ve built
+### 🚀 Some things I’ve built
 
 - Automated assistant + booking flow for a Paris beauty brand (no more lost messages)
 - Multi-tool infrastructure for e-commerce and service businesses
@@ -30,7 +30,7 @@ I’m a multipotentialite founder, currently running PrettySecure, an automation
 - A B2B platform with online directories - check [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md))
 - An Ecommerce for gashion accessories - check [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
 
-📚 My path
+### 📚 My path
 
 ***I've learned mostly everything I know at home on my own*** : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2014 to 2018, during which I earned a degree in Communication and Marketing.  This helped me acquire all the skills needed to build, launch, automate, grow and manage an IT project. </br></br>
 
@@ -41,18 +41,18 @@ I’m a multipotentialite founder, currently running PrettySecure, an automation
 - I love mixing strategy, systems thinking, aesthetics, and automation.
 
 
-🌍 Languages & background
+### 🌍 Languages & background
 
 Based in Paris 🇫🇷
 Lived in London 🇬🇧
 Native French, fluent English.
 
-🤝 Open to collaborations
+### 🤝 Open to collaborations
 
 Automation • Digital systems • UX • Growth • Data & Security • Dev • System mapping
 Also open to projects related to fashion, beauty social entrepreneurship, and sustainability.
 
-⚡ Fun fact
+### ⚡ Fun fact
 
 Yes… I watch Real Housewives 🥤
 And yes… I’ve learned more about team dynamics, branding, and human psychology from it than from some business books.
