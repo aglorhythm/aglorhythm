@@ -1,7 +1,7 @@
 Hi 👋 My name is Olga
 =====================
 
-Systems Architect & Growth Engineer @PrettySecure
+Systems Architect & Growth Engineer @PrettySecure </br></br>
 Building clean, scalable, automated systems for brands, founders, and small teams.
 ----------------------
 
