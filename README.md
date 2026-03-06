@@ -1,7 +1,7 @@
 Hi 👋 My name is Olga
 =====================
 
-Small Business Systems Architect @PrettySecure </br></br>
+Systems Architect @PrettySecure </br></br>
 Building clean, scalable, automated systems for brands, founders, and small teams.
 ----------------------
 
