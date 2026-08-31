@@ -1,77 +1,113 @@
 Hi 👋 My name is Olga
 =====================
 
-Systems Architect @PrettySecure </br></br>
-Building clean, scalable, automated systems for brands, founders, and small teams.
+Founder @PrettySecure • Enterprise Architecture • Business & IT Systems • Operational Excellence • DevOps </br></br>
+Building better systems by connecting business, operations, and technology.
 ----------------------
 
 ### 🧩 About me
 
-I combine business strategy, DevOps/Cloud engineering, and automation to design digital systems that make operations smoother, faster, and easier to run.
-I like building frameworks, mapping systems, fixing chaos, and designing flows that feel invisible but deliver real results.
-I’m a multipotentialite founder, currently running PrettySecure, an automation & growth studio helping brands launch, relaunch, and scale with clear tech and clean operations.
+My background combines entrepreneurship, Business Analysis (AMOA), DevOps/Cloud engineering, digital operations, and process improvement. I enjoy understanding how organizations work, mapping systems and workflows, identifying friction points, and designing clearer, more scalable ways of operating.
+
+I'm currently developing my expertise in Enterprise Architecture, information systems transformation, architecture governance, and technology strategy.
+
+I'm also the founder of [PrettySecure](https://prettysecure.cloud), where I work on the relationship between information systems, operational efficiency, automation, and business performance.
 
 ### 🛠️ What I work on
 
-- System architecture (DevOps, Cloud, APIs, integrations)
-- Business operations & client journeys
-- Automation (n8n, custom flows, AI assistants, pipelines)
-- Technical branding (websites, flows, booking systems, CRM)
-- Data governance (RGPD basics, access management, security)
-- GTM & growth workflows for early-stage founders
+- Enterprise & Solution Architecture
+- Business Analysis & Business Systems Analysis
+- Information Systems Transformation
+- Operational Excellence & Process Improvement
+- Business Process & Capability Mapping
+- Application Architecture & System Mapping
+- APIs, integrations & data flows
+- DevOps, Cloud & CI/CD
+- Automation & AI-enabled workflows
+- Data governance, access management & security
+- Digital operations & business systems
+- Supply Chain / operational process transformation
 
 ### 🚀 Some things I’ve built
 
-- Automated assistant + booking flow for a Paris beauty brand (no more lost messages)
-- Multi-tool infrastructure for e-commerce and service businesses
-- End-to-end customer journeys (from acquisition → onboarding → retention)
-- Back-office systems for founders overwhelmed by tools
-- Internal systems for content, operations, and data tracking
-- A B2B platform with online directories - check [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md))
-- An Ecommerce for gashion accessories - check [(details)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
+My projects sit at the intersection of entrepreneurship, technology, operations, and business systems.
+
+- B2B platforms and online directories 
+- E-commerce systems and digital customer journeys
+- Back-office and operational workflows
+- API and multi-tool integrations
+- Automation workflows and internal systems
+- Cloud & DevOps environments
+- Systems for content, operations, and data tracking
+- Process and system mapping for small organizations
+
+**Selected entrepreneurial projects:**
+
+- **Famous in Vogue** — B2B platform and online directory  
+  [(Read the project journey)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_famous-in-vogue_journey.md)
+
+- **Monyka** — E-commerce project for fashion accessories  
+  [(Read the project journey)](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_monyka_journey.md)
+
 
 ### 📚 My path
 
-***I've learned mostly everything I know at home on my own*** : marketing, graphism, web development, e-commerce. No dedicated teachers, just books, documentations and YT videos :). I participated in distance learning from 2014 to 2018, during which I earned a degree in Communication and Marketing.  This helped me acquire all the skills needed to build, launch, automate, grow and manage an IT project. </br></br>
+A large part of what I know started with self-learning: web development, e-commerce, design, marketing, automation, and digital tools.
+No dedicated teachers at first — mostly books, documentation, experimentation, and a lot of YouTube :)
 
-- Self-taught in tech, marketing, design, automation, and product.
-- Studied communication & marketing bachelor degree (2014–2018) at home. Did a DevOps Bootcamp @ [La Capsule](https://www.lacapsule.academy/program/devops-full-time).
-- Worked as a business analyst (AMOA, for the government) and DevOps/Cloud apprentice at HSBC.
-- Now running [PrettySecure](https://prettysecure.cloud) full-time. 🔭 Interested in Architecture, automation and AI.
-- I love mixing strategy, systems thinking, aesthetics, and automation.
+I studied Communication and Marketing through distance learning before progressively moving deeper into information systems and technology.
+
+- 🎓 Communication & Marketing
+- 🚀 Built and managed entrepreneurial digital and e-commerce projects
+- 🏛️ Worked in Business Analysis / AMOA on information systems projects for the French public sector
+- ☁️ Completed DevOps training at [La Capsule](https://www.lacapsule.academy/program/devops-full-time)
+- 🏦 Worked as a DevOps / Data engineer apprentice at HSBC 
+- 🏗️ Currently pursuing the **Mastère Spécialisé® Architecte Digital d’Entreprise at Télécom Paris**
+- 💼 Founder of [PrettySecure](https://prettysecure.studio)
+
+My path may not be linear, but the common thread has always been the same: understanding how systems work, connecting business and technology, and improving the way organizations operate.
+
+
+### 🔭 Current interests
+
+Enterprise Architecture • Solution Architecture • Technology Strategy • IT Transformation • Business Systems • Operational Excellence • Process Improvement • Cloud Architecture • Automation • Deterministic AI
 
 
 ### 🌍 Languages & background
 
-Based in Paris 🇫🇷
-Lived in London 🇬🇧
-Native French, fluent English.
+Based in France 🇫🇷  
+Previously lived in London 🇬🇧  
+Native French • Fluent English
+Open to international opportunities.
 
-### 🤝 Open to collaborations
 
-Automation • Digital systems • UX • Growth • Data & Security • Dev • System mapping
-Also open to projects related to fashion, beauty social entrepreneurship, and sustainability.
+### 🤝 Open to
+
+Enterprise Architecture • Solution Architecture • Technology Strategy • IT Transformation • Business Analysis • Operational Excellence • Cloud • Automation • Digital Systems
+Also interested in projects related to entrepreneurship, retail, beauty, fashion, supply chain, and sustainability.
+
 
 ### ⚡ Fun fact
 
 Yes… I watch Real Housewives 🥤
-And yes… I’ve learned more about team dynamics, branding, and human psychology from it than from some business books.
+And yes… I’ve learned more about stakeholder management, organizational politics, branding, and human psychology from it than from some business books.
 
 
 ## My main skills 
 <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
-🚨
-That is not only what I know ! While diving through my entrepreneur journey, Business analyst(AMOA) experiences and Devops bootcamp, I acquired a lot of skills. Check my full skillset and expertise here :
-[All my skills](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_my-skillset.md)
 
+### Beyond the icons
+
+My skill set goes beyond the technologies listed above.
+
+Through entrepreneurship, Business Analysis (AMOA), DevOps, operational improvement, and independent projects, I've developed experience across business, product, operations, and technology.
+
+👉 [Explore my full skill set](https://github.com/aglorhythm/entreprenher-journey/blob/main/read_my-skillset.md)
 
 [![](https://visitcount.itsvg.in/api?id=aglorhythm&label=Profile%20Views&color=10&icon=1&pretty=true)](https://visitcount.itsvg.in)
