@@ -1,8 +1,8 @@
 Hi 👋 My name is Olga
 =====================
 
-Founder @PrettySecure • Enterprise Architecture • Business & IT Systems • Operational Excellence • DevOps </br></br>
-Building better systems by connecting business, operations, and technology.
+Founder @PrettySecure • Enterprise / Business Architecture • Business & IT Systems </br></br>
+Building better systems by connecting business, operations, data and technology.
 ----------------------
 
 ### 🧩 About me
